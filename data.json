@@ -1,1 +1,10 @@
 // Data
+[
+	{ "name": "Hillary Clinton", 
+	  "firstName": "Hillary", 
+	  "lastName": "Clinton", 
+	  "runningAs": "Democratic Presidential Candidate", 
+	  "party": "Democrat", 
+	  "bio": "Hillary Diane Rodham Clinton (born October 26, 1947) is an American politician who was the former United States Senator from New York from 2001 to 2009. She is the wife of the 42nd President of the United States William "Bill" Jefferson Clinton, and was First Lady of the United States during his tenure from 1993 to 2001. She served under current President Barack Obama as the 67th United States Secretary of State from 2009 to 2013. She is a candidate for the Democratic nomination for President of the United States in the 2016 presidential election." 
+	}
+]
