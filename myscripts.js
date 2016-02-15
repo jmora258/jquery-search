@@ -1,8 +1,18 @@
 // My scripts: 
 alert("hello!"); 
-$.getJSON('data.json', function(data) {
+$('#update').html("jquery is working"); 
 
-	console.log(data); 
-	alert("hello!");
+
+$(document).ready(function() {
+			
+    $('#mybutton').click(function(event){
+        $.getJSON('data.json', function(data) {
+            alert("success!! Yay!"); 
+            console.log(data);
+        });
+    });
+
+    console.log("hey there! From console"); 
+
+				
 });
-

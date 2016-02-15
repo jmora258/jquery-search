@@ -1,3 +1,4 @@
+
 [
 	{ "name": "Hillary Clinton", 
 	  "firstName": "Hillary", 
@@ -5,7 +6,7 @@
 	  "runningAs": "Democratic Presidential Candidate", 
 	  "party": "Democrat", 
 	  "bio": "Hillary Diane Rodham Clinton (born October 26, 1947) is an American politician who was the former United States Senator from New York from 2001 to 2009. She is the wife of the 42nd President of the United States William 'Bill' Jefferson Clinton, and was First Lady of the United States during his tenure from 1993 to 2001. She served under current President Barack Obama as the 67th United States Secretary of State from 2009 to 2013. She is a candidate for the Democratic nomination for President of the United States in the 2016 presidential election." 
-	}
+	},
 
 	{ "name": "Bernie Sanders", 
 	  "firstName": "Bernie", 
@@ -13,7 +14,7 @@
 	  "runningAs": "Democratic Presidential Candidate", 
 	  "party": "Democrat", 
 	  "bio": "Bernard 'Bernie' Sanders (born September 8, 1941) is an American politician and the junior United States Senator from Vermont. He is a candidate for the Democratic nomination for President of the United States in the 2016 U.S. presidential election. A Democrat as of 2015, Sanders had been the longest-serving independent in U.S. congressional history, though his caucusing with the Democrats entitled him to committee assignments and at times gave Democrats a majority. Sanders has been the ranking minority member on the Senate Budget Committee since January 2015." 
-	}
+	},
 
 	{ "name": "Ben Carson", 
 	  "firstName": "Ben", 
@@ -21,7 +22,7 @@
 	  "runningAs": "Republican Presidential Candidate", 
 	  "party": "Republican (GOP)", 
 	  "bio": "Benjamin Solomon 'Ben' Carson, Sr. (born September 18, 1951) is a retired American neurosurgeon who is a candidate for the Republican nomination for President of the United States, in the 2016 election. Born in Detroit, Michigan and a graduate of Yale University and the University of Michigan Medical School, Carson has authored numerous books on his medical career and political stances, and was the subject of a television drama film in 2009." 
-	}
+	},
 
 	{ "name": "Ted Cruz", 
 	  "firstName": "Ted", 
@@ -29,7 +30,7 @@
 	  "runningAs": "Republican Presidential Candidate", 
 	  "party": "Republican (GOP)", 
 	  "bio": "Rafael Edward 'Ted' Cruz (born December 22, 1970) is an American politician and the junior United States Senator from Texas. He is a candidate for the Republican nomination for President of the United States, in the 2016 presidential election." 
-	}
+	},
 
 	{ "name": "Marco Rubio", 
 	  "firstName": "Marco", 
@@ -37,7 +38,7 @@
 	  "runningAs": "Republican Presidential Candidate", 
 	  "party": "Republican (GOP)", 
 	  "bio": "Marco Antonio Rubio (born May 28, 1971) is an American attorney and politician and junior United States Senator from Florida. Rubio previously served as Speaker of the Florida House of Representatives. He is a candidate for the Republican nomination for President of the United States, in the 2016 presidential election." 
-	}
+	},
 
 	{ "name": "Donald Trump", 
 	  "firstName": "Donald", 
@@ -45,7 +46,7 @@
 	  "runningAs": "Republican Presidential Candidate", 
 	  "party": "Republican (GOP)", 
 	  "bio": "Donald John Trump, Sr. (born June 14, 1946) is an American businessperson and media personality. He is the chairman and president of The Trump Organization and the founder of Trump Entertainment Resorts. Trump's career, branding efforts, personal life, wealth, and outspoken manner have made him famous. Since 2015, he is also a candidate for President of the United States in the 2016 election." 
-	}
+	},
 
 	{ "name": "Jeb Bush", 
 	  "firstName": "Jeb", 
@@ -53,7 +54,7 @@
 	  "runningAs": "Republican Presidential Candidate", 
 	  "party": "Republican (GOP)", 
 	  "bio": "John Ellis 'Jeb' Bush (born February 11, 1953) is an American businessman and politician who served as the 43rd Governor of Florida from 1999 to 2007. He is currently a candidate for the Republican nomination for President of the United States, in the 2016 U.S. presidential election." 
-	}
+	},
 
 	{ "name": "John Kasich", 
 	  "firstName": "John", 
@@ -62,6 +63,5 @@
 	  "party": "Republican (GOP)", 
 	  "bio": "John Richard Kasich (/ˈkeɪsᵻk/ kay-sick; born May 13, 1952) is the Governor of Ohio, first elected in 2010 and re-elected in 2014. On July 21, 2015, he announced his candidacy for the 2016 Republican nomination for President of the United States." 
 	}
-
 	
 ]
