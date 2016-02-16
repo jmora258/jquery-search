@@ -7,11 +7,14 @@ $(document).ready( function() {
 	$('#search').keyup( function() {
 		var searchQuery = $(this).val();  // retrieve each key value 
 		var myRegExp = new RegExp(searchQuery, "i"); // case-insensitive 
+		var indicatorCount = 0; 
 		
 		$.getJSON('data.json', function(data) {
 
-			var output; 
-
+			var output = '<div class="carousel-inner">'; 
+			var indicators = '<li data-target="#carousel-testimonials" data-slide-to="0" class="active"></li>'; 
+			 
+			indicatorCount = 0; 
 			$.each(data, function(key, value) {
 				
 				if( (this.name.search(myRegExp)) != -1 || (this.bio.search(myRegExp)) != -1) {
@@ -20,24 +23,25 @@ $(document).ready( function() {
 
 					output += '<div class="animated slideInLeft col-xs-2">';
 					output += '<img src="images/candidates2016/' + this.firstName + '_'+ this.lastName 
-						   + '_Small.jpg" alt="portfolio" width="100" class"img-circle img-responsive">'; 
+						   + '_Small.jpg" alt="portfolio" width="100" class="img-circle img-responsive">'; 
 					output += '</div>'
 
-
-
-					
 					output += '<div class="col-xs-10">'; 
 					output += '<p>' + this.immQuote + '</p>' + '<span>' + this.name + ' - <strong>' + this.party + '</strong></span>'; 
 					output += '</div>';
 
-
 					output += '</div>';
+
+					indicatorCount++; 
+					indicators += '<li data-target="#carousel-testimonials" data-slide-to="'+ indicatorCount +'"></li>'; 
+
 				
 				}
 			});  
-
+			output += '</div>'; 
 			
 			$('#update').html(output); 
+			$('#indicator').html(indicators); 
 
 		});	// retrieve JSON
 
@@ -49,7 +53,7 @@ function createProfiles() {
 	
 	$.getJSON('data.json', function(data) {
 
-		var output; 
+		var output=""; 
 
 		$.each(data, function(key, value) {
 

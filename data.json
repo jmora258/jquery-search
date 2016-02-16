@@ -1,14 +1,12 @@
-
 [
 	{ "name": "Hillary Clinton", 
 	  "firstName": "Hillary", 
 	  "lastName": "Clinton", 
 	  "runningAs": "Democratic Presidential Candidate", 
 	  "party": "Democrat", 
-	  "immQuote" : " \"We are not going to deport 11 or 12 million people in this country.\" via Twitter (Feb 12, 2016) ", 
+	  "immQuote" : "\"We are not going to deport 11 or 12 million people in this country.\" via Twitter (Feb 12, 2016) ", 
 	  "bio": "Hillary Diane Rodham Clinton (born October 26, 1947) is an American politician who was the former United States Senator from New York from 2001 to 2009. She is the wife of the 42nd President of the United States William 'Bill' Jefferson Clinton, and was First Lady of the United States during his tenure from 1993 to 2001. She served under current President Barack Obama as the 67th United States Secretary of State from 2009 to 2013. She is a candidate for the Democratic nomination for President of the United States in the 2016 presidential election." 
 	},
-
 	{ "name": "Bernie Sanders", 
 	  "firstName": "Bernie", 
 	  "lastName": "Sanders", 
@@ -17,7 +15,6 @@
 	  "immQuote" : " \"Raids are not the answer. We cannot continue to employ inhumane tactics involving rounding up and deporting thousands of immigrant families.\" via Twitter (Feb. 12, 2016)", 
 	  "bio": "Bernard 'Bernie' Sanders (born September 8, 1941) is an American politician and the junior United States Senator from Vermont. He is a candidate for the Democratic nomination for President of the United States in the 2016 U.S. presidential election. A Democrat as of 2015, Sanders had been the longest-serving independent in U.S. congressional history, though his caucusing with the Democrats entitled him to committee assignments and at times gave Democrats a majority. Sanders has been the ranking minority member on the Senate Budget Committee since January 2015." 
 	},
-
 	{ "name": "Ben Carson", 
 	  "firstName": "Ben", 
 	  "lastName": "Carson", 
@@ -26,7 +23,6 @@
 	  "immQuote" : "\"Our nation’s immigration system is broken. We do have laws and if we were to enforce them I guess it wouldn’t be broken. My big plan is to enforce the laws but also look at our southern border.\" - via Change Politics (Jan. 29, 2016)", 
 	  "bio": "Benjamin Solomon 'Ben' Carson, Sr. (born September 18, 1951) is a retired American neurosurgeon who is a candidate for the Republican nomination for President of the United States, in the 2016 election. Born in Detroit, Michigan and a graduate of Yale University and the University of Michigan Medical School, Carson has authored numerous books on his medical career and political stances, and was the subject of a television drama film in 2009." 
 	},
-
 	{ "name": "Ted Cruz", 
 	  "firstName": "Ted", 
 	  "lastName": "Cruz", 
@@ -35,7 +31,6 @@
 	  "immQuote" : "\"As president that’s exactly what I’m gonna do, I’m gonna enforce the law. We are going to deport those here illegally, secure the borders, and keep this country safe.\" via BuzzFeed (Jan. 12, 2016)", 
 	  "bio": "Rafael Edward 'Ted' Cruz (born December 22, 1970) is an American politician and the junior United States Senator from Texas. He is a candidate for the Republican nomination for President of the United States, in the 2016 presidential election." 
 	},
-
 	{ "name": "Marco Rubio", 
 	  "firstName": "Marco", 
 	  "lastName": "Rubio", 
@@ -44,7 +39,6 @@
 	  "immQuote" : "\"When I am president, there will be no amnesty – I’ll cancel Obama’s unconstitutional executive amnesty. Sanctuary cities will lose their federal funding, and criminal aliens will be immediately deported.\" - via Change Politics (Jan. 29, 2016)", 
 	  "bio": "Marco Antonio Rubio (born May 28, 1971) is an American attorney and politician and junior United States Senator from Florida. Rubio previously served as Speaker of the Florida House of Representatives. He is a candidate for the Republican nomination for President of the United States, in the 2016 presidential election." 
 	},
-
 	{ "name": "Donald Trump", 
 	  "firstName": "Donald", 
 	  "lastName": "Trump", 
@@ -53,7 +47,6 @@
 	  "immQuote" : "\"We're going to have a border. We're going to build a wall. Mexico is going to pay for the wall, we're not paying.\" - via Kolo TV (Oct. 30, 2015)", 
 	  "bio": "Donald John Trump, Sr. (born June 14, 1946) is an American businessperson and media personality. He is the chairman and president of The Trump Organization and the founder of Trump Entertainment Resorts. Trump's career, branding efforts, personal life, wealth, and outspoken manner have made him famous. Since 2015, he is also a candidate for President of the United States in the 2016 election." 
 	},
-
 	{ "name": "Jeb Bush", 
 	  "firstName": "Jeb", 
 	  "lastName": "Bush", 
@@ -62,7 +55,6 @@
 	  "immQuote" : "\"I believe we must secure the border and fix our broken immigration system.  We need to create an economically-driven system that will help generate higher economic growth for all of us.\" via via Change Politics (Jan. 29, 2016)", 
 	  "bio": "John Ellis 'Jeb' Bush (born February 11, 1953) is an American businessman and politician who served as the 43rd Governor of Florida from 1999 to 2007. He is currently a candidate for the Republican nomination for President of the United States, in the 2016 U.S. presidential election." 
 	},
-
 	{ "name": "John Kasich", 
 	  "firstName": "John", 
 	  "lastName": "Kasich", 
@@ -71,5 +63,4 @@
 	  "immQuote" : "\"We have to finish the wall ... For the 11 and a half million who are here, if they have not violated the law since they've been here I'd give them a path to legalization.\" via Live 5 News (Feb. 10, 2016)", 
 	  "bio": "John Richard Kasich (/ˈkeɪsᵻk/ kay-sick; born May 13, 1952) is the Governor of Ohio, first elected in 2010 and re-elected in 2014. On July 21, 2015, he announced his candidacy for the 2016 Republican nomination for President of the United States." 
 	}
-	
 ]
